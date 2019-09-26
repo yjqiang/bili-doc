@@ -1,3 +1,13 @@
+- 直播
+  - [大航海](bili_live/guard/README.md)
+    - [查询](bili_live/guard/check.md)
+    - [参加](bili_live/guard/join.md)
+  - [大乱斗](bili_live/pk/README.md)
+    - [查询](bili_live/pk/check.md)
+    - [参加](bili_live/pk/join.md)
+  - [小电视](bili_live/tv/README.md)
+    - [查询](bili_live/tv/check.md)
+    - [参加](bili_live/tv/join.md)
 - 主站
   - [个人信息](bili_main/info/README.md)
     - [查询](bili_main/info/check.md)
