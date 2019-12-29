@@ -1,4 +1,7 @@
 - 直播
+  - [天选抽奖](bili_live/anchor/README.md)
+    - [查询](bili_live/anchor/check.md)
+    - [参加](bili_live/anchor/join.md)
   - [大航海](bili_live/guard/README.md)
     - [查询](bili_live/guard/check.md)
     - [参加](bili_live/guard/join.md)
@@ -21,6 +24,7 @@
     - [WELCOME](bili_live_danmu/danmu/welcome.md)
     - [ROOM](bili_live_danmu/danmu/room.md)
     - [ENTRY_EFFECT](bili_live_danmu/danmu/entry_effect.md)
+    - [COMBO](bili_live_danmu/danmu/combo0.md)
 - 主站
   - [个人信息](bili_main/info/README.md)
     - [查询](bili_main/info/check.md)

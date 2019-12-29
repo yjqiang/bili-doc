@@ -9,10 +9,10 @@
     "ACTIVITY_BANNER_UPDATE_BLS",
     "ROOM_CHANGE",  // room.md
     "ACTIVITY_BANNER_UPDATE_V2",
-    "COMBO_END",
+    "COMBO_END",  // combo0.md
     "WELCOME",  // welcome.md
     "LIVE",
-    "COMBO_SEND",
+    "COMBO_SEND",  // combo0.md
     "PREPARING",
     "room_admin_entrance",
     "ROOM_ADMINS",
