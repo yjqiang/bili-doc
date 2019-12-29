@@ -18,6 +18,9 @@
     - [高能抽奖](bili_live_danmu/danmu/RAFFLE_START.md)
     - [风暴](bili_live_danmu/danmu/SPECIAL_GIFT.md)
     - [小电视](bili_live_danmu/danmu/TV_START.md)
+    - [WELCOME](bili_live_danmu/danmu/welcome.md)
+    - [ROOM](bili_live_danmu/danmu/room.md)
+    - [ENTRY_EFFECT](bili_live_danmu/danmu/entry_effect.md)
 - 主站
   - [个人信息](bili_main/info/README.md)
     - [查询](bili_main/info/check.md)

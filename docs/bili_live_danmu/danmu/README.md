@@ -1,30 +1,30 @@
 # Danmu CMD
 
-```javascript
+```json5
 [
     "DANMU_MSG",
-    "WELCOME_GUARD",
-    "ENTRY_EFFECT",
+    "WELCOME_GUARD",  // welcome.md
+    "ENTRY_EFFECT",  // entry_effect.md
     "SEND_GIFT",
     "ACTIVITY_BANNER_UPDATE_BLS",
-    "ROOM_CHANGE",
+    "ROOM_CHANGE",  // room.md
     "ACTIVITY_BANNER_UPDATE_V2",
     "COMBO_END",
-    "WELCOME",
+    "WELCOME",  // welcome.md
     "LIVE",
     "COMBO_SEND",
     "PREPARING",
     "room_admin_entrance",
     "ROOM_ADMINS",
-    "ROOM_REAL_TIME_MESSAGE_UPDATE",
+    "ROOM_REAL_TIME_MESSAGE_UPDATE",  // room.md
     "WISH_BOTTLE",
-    "ROOM_BLOCK_MSG",
+    "ROOM_BLOCK_MSG",  // room.md
     "WEEK_STAR_CLOCK",
     "RAFFLE_START",
     "NOTICE_MSG",
     "PK_END",
     "PK_SETTLE",
-    "ROOM_RANK",
+    "ROOM_RANK",  // room.md
     "ANCHOR_LOT_CHECKSTATUS",
     "ANCHOR_LOT_START",
     "PK_MIC_END",
