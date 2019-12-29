@@ -1,5 +1,6 @@
 # ANCHOR_LOT (天选抽奖)
 
+## ANCHOR_LOT_START
 ```json5
 {
     "cmd": "ANCHOR_LOT_START",
@@ -30,6 +31,41 @@
         "time": 599,
         "url": "https://live.bilibili.com/p/html/live-lottery/anchor-join.html?is_live_half_webview=1&hybrid_biz=live-lottery-anchor&hybrid_half_ui=1,5,100p,100p,000000,0,30,0,0,1;2,5,100p,100p,000000,0,30,0,0,1;3,5,100p,100p,000000,0,30,0,0,1;4,5,100p,100p,000000,0,30,0,0,1;5,5,100p,100p,000000,0,30,0,0,1;6,5,100p,100p,000000,0,30,0,0,1;7,5,100p,100p,000000,0,30,0,0,1;8,5,100p,100p,000000,0,30,0,0,1",
         "web_url": "https://live.bilibili.com/p/html/live-lottery/anchor-join.html"
+    }
+}
+```
+
+## ANCHOR_LOT_AWARD
+```json5
+{
+    "cmd": "ANCHOR_LOT_AWARD",
+    "data": {
+        "award_image": "",
+        "award_name": "感谢辣条粉0.52rmb",
+        "award_num": 1,
+        "award_users": [
+            {
+                "uid": 226101421,
+                "uname": "花开门前风自扫",
+                "face": "http://static.hdslb.com/images/member/noface.gif",
+                "level": 20,
+                "color": 6406234
+            }
+        ],
+        "id": 33724,
+        "lot_status": 2,
+        "url": "https://live.bilibili.com/p/html/live-lottery/anchor-join.html?is_live_half_webview=1&hybrid_biz=live-lottery-anchor&hybrid_half_ui=1,5,100p,100p,000000,0,30,0,0,1;2,5,100p,100p,000000,0,30,0,0,1;3,5,100p,100p,000000,0,30,0,0,1;4,5,100p,100p,000000,0,30,0,0,1;5,5,100p,100p,000000,0,30,0,0,1;6,5,100p,100p,000000,0,30,0,0,1;7,5,100p,100p,000000,0,30,0,0,1;8,5,100p,100p,000000,0,30,0,0,1",
+        "web_url": "https://live.bilibili.com/p/html/live-lottery/anchor-join.html"
+    }
+}
+```
+
+## ANCHOR_LOT_END
+```json5
+{
+    "cmd": "ANCHOR_LOT_END",
+    "data": {
+        "id": 33724
     }
 }
 ```

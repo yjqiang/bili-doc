@@ -19,6 +19,7 @@
     - [全局notice](bili_live_danmu/danmu/notice_msg.md)
     - [pk抽奖](bili_live_danmu/danmu/PK_LOTTERY_START.md)
     - [高能抽奖](bili_live_danmu/danmu/RAFFLE_START.md)
+    - [高能结果](bili_live_danmu/danmu/RAFFLE_END.md)
     - [风暴](bili_live_danmu/danmu/SPECIAL_GIFT.md)
     - [小电视](bili_live_danmu/danmu/TV_START.md)
     - [WELCOME](bili_live_danmu/danmu/welcome.md)
